@@ -17,3 +17,5 @@ VBoxManage snapshot UBUNTU18 take "$SNAPSHOT_NAME" --description "$SNAPSHOT_DESC
 #git remote add origin https://github.com/DKDKDKDKDKDKDKDK/VBoxManage.git
 
 #git push
+
+# rename under setting
